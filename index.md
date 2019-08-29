@@ -26,6 +26,15 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Organization XIII
+## The Following in the list are assigned to Castle Oblivion:
+4. Vexen
+5. Lexaeus
+6. Zexion
+8. Axel
+11. Marluxia
+12. Larxene
+- That is all
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
